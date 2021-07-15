@@ -18,4 +18,4 @@ python tela.py
 
 ## Executável
 
-Para usar o Executavel entre na pasta e rode o arquivo sem sair da pasta.
+Para usar o Executavel entre no link da descrição e rode o arquivo sem sair da pasta.
